@@ -1,6 +1,6 @@
 # Swagger UI Demo
 
-1. Git clone [project](https://github.com/ahoqueali/ahoqueali.github.io/tree/master/swagger-demo) `git clone https://github.com/ahoqueali/ahoqueali.github.io`
+1. Git clone [project](https://github.com/ahoqueali/swagger-demo.git) `git clone https://github.com/ahoqueali/swagger-demo.git`
 2. Cd into swagger-demo
 3. Start demo app `./gradlew bootRun`
 4. Go to Swagger UI [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html) and clink on the `Try it out` button
@@ -19,7 +19,7 @@ The URLs below allow access to the Swagger Specs
 
 ![alt text](./swagger-request-validator.png "Swagger Request Validator Demo")
 
-See [source](https://github.com/ahoqueali/ahoqueali.github.io/tree/master/swagger-demo) for implementation details.
+See [source](https://github.com/ahoqueali/swagger-demo.git) for implementation details.
 
 ## Reference
 1. [Documenting a Spring REST API Using OpenAPI 3.0](https://www.baeldung.com/spring-rest-openapi-documentation)
